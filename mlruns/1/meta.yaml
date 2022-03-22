@@ -1,0 +1,4 @@
+artifact_location: file:///Users/ramvegiraju/Desktop/personalProjects/MLFlow-Intro/mlruns/1
+experiment_id: '1'
+lifecycle_stage: active
+name: mlflow-demo
